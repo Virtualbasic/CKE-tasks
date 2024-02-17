@@ -1,0 +1,12 @@
+MQQFSLZM , [12, 94, 94, 57, 96, 115, 51, 90] , 232 
+0. [159, 27, 27, 90, 161, 92, 30, 159]  ,  MQQFSLZM , Wiarygodne
+1. [29, 29, 96, 94, 90, 25, 23, 89]  ,  WWXRFKEC , Niewiarygodne
+2. [95, 155, 27, 90, 155, 25, 27, 26]  ,  UAQFAKQN , Wiarygodne
+3. [29, 162, 28, 90, 29, 159, 92, 91]  ,  WVTFWMLI , Wiarygodne
+4. [29, 159, 96, 27, 22, 162, 28, 95]  ,  WMXQBVTU , Niewiarygodne
+5. [91, 94, 89, 23, 91, 91, 156, 26]  ,  IRCEIIDN , Niewiarygodne
+6. [156, 92, 157, 95, 92, 90, 161, 28]  ,  DLGULFST , Niewiarygodne
+7. [95, 91, 30, 162, 23, 95, 161, 23]  ,  UIZVEUSE , Wiarygodne
+8. [156, 159, 29, 24, 95, 96, 28, 24]  ,  DMWHUXTH , Wiarygodne
+9. [95, 90, 24, 94, 24, 161, 96, 159]  ,  UFHRHSXM , Niewiarygodne
+10. [28, 90, 95, 25, 157, 90, 96, 29]  ,  TFUKGFXW , Wiarygodne
