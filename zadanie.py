@@ -37,3 +37,8 @@ dopóki i<4 wykonuj:
 print(z2(tab,x))
 
 # a
+
+
+def rad(s):
+    return  s/3.14
+print(rad(int(input("wprowadz"))))

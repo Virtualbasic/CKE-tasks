@@ -16,7 +16,7 @@ with open("hasla.txt" , "r") as pas:
         else:
             passwords[i[:-1]] = 1
         if i[:-1].isnumeric():
-            print(i)
+            #print(i)
             c+=1
         for j in i:
             if j.isnumeric():
